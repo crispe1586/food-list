@@ -1,0 +1,23 @@
+/* Viewports */
+$screen-small: 320px;
+$screen-medium: 720px;
+$screen-large: 920px;
+$screen-wide: 1260px;
+
+/* Colors */
+$color-white: #FFFFFF;
+$color-black: #000000;
+$color-red: #E73C01;
+$color-green: #2B9030;
+$color-yellow: #F39200;
+$color-juri: #777777;
+$color-juri-light:#C8C8C8;
+
+/* Measures*/
+$gutter: 16px;
+
+:export {
+  colorCategory1:$color-yellow;
+  colorCategory2: $color-green;
+  colorCategory3: $color-red;
+}
